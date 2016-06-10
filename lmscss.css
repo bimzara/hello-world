@@ -1,0 +1,52 @@
+body {
+    background-image:url("learning2.jpg");
+    
+    padding: 25px;background-repeat: no-repeat;
+ 	}
+h1 	{
+	color: black;
+	font-family:Arial;
+	font-size: 250%
+	}    
+h2	{
+	text-align: center;
+	color: #21618C;
+	font-family: verdana;
+	font-size: 400%
+	}
+h3	{
+	text-align: left;
+	vertical-align: top;
+	color: #696969;
+	font-family: verdana;
+	font-size: 250%;
+	margin: 100px 150px 100px 80px;
+	padding: 60px;
+ 	border-style: outset;
+    border-color: #696969;
+	border-bottom-width: 10px;
+	}
+h4	{
+	text-align: left;
+	vertical-align: top;
+	color: #696969;
+	font-family: verdana;
+	font-size: 250%;
+	margin: 100px 150px 100px 80px;
+	padding: 60px;
+ 	border-style: outset;
+    border-color: #696969;
+	border-bottom-width: 10px;
+	}
+h5	{
+	text-align: left;
+	vertical-align: top;
+	color: #696969;
+	font-family: verdana;
+	font-size: 250%;
+	margin: 100px 150px 100px 80px;
+	padding: 60px;
+ 	border-style: outset;
+    border-color: #696969;
+    border-bottom-width: 10px;
+	}
