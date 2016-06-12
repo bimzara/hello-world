@@ -1,53 +1,78 @@
-body {
-    background-image:url("learning2.jpg");
-    
-    padding: 25px;background-repeat: no-repeat;
- 	}
+body{
+	background-color:white;
+	}
 h1 	{
 	color: black;
-	font-family:Arial;
-	font-size: 250%
+	font-family:calibri;
+	font-size: 250%;
 	}    
 h2	{
+	text-shadow: 4px 4px #cccc00;
 	text-align: center;
 	color: #21618C;
-	font-family: verdana;
+	font-family: calibri;
 	font-size: 400%
 	}
 h3	{
-	text-align: left;
-	vertical-align: top;
-	color: #696969;
+	text-shadow: 4px 4px white;
 	font-family: verdana;
-	font-size: 250%;
-	margin: 100px 150px 100px 80px;
-	padding: 60px;
- 	border-style: outset;
-    border-color: #696969;
-	border-bottom-width: 10px;
+	font-size: 300%;
+	text-align: center;
+	margin: 10% 10% 10% 10%;
 	}
 h4	{
-	text-align: left;
-	vertical-align: top;
-	color: #696969;
+	text-shadow: 4px 4px white;
 	font-family: verdana;
-	font-size: 250%;
-	margin: 100px 150px 100px 80px;
-	padding: 60px;
- 	border-style: outset;
-    border-color: #696969;
-	border-bottom-width: 10px;
+	font-size: 300%;
+	text-align: center;
+	margin: 10% 10% 10% 10%;
 	}
 h5	{
-	text-align: left;
-	vertical-align: top;
-	color: #696969;
+	text-shadow: 4px 4px white;
 	font-family: verdana;
-	font-size: 250%;
-	margin: 100px 150px 100px 80px;
-	padding: 60px;
- 	border-style: outset;
-    border-color: #696969;
-    border-bottom-width: 10px;
+	font-size: 300%;
+	margin: 10% 10% 10% 10%;
 	}
-	
+a:link {
+    color: #800000;
+    background-color: transparent;
+    text-decoration: none;
+	}
+a:visited {
+    color: #990000;
+    background-color: transparent;
+    text-decoration: none;
+	}
+a:hover {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: bold;
+	}
+a:active {
+    color: #999966;
+    background-color: transparent;
+    text-decoration: bold;
+	}
+img {
+    opacity: 1.0;
+	}
+img:hover {
+    opacity: 0.8;
+	}
+
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    bottom: 10%;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    font-size: 90%;
+}
+
+
